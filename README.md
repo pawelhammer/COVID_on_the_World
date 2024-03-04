@@ -6,5 +6,7 @@ Stay tuned!
 
 Link to the dataset I am using in my analysis:
 
-# Used technologies:
+# Tech stack:
+# PostgreSQL
+# Power BI
 
